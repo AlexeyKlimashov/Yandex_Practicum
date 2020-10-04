@@ -54,11 +54,6 @@
 <td>pandas, numpy, matplotlib, scipy, plotly.graph_objs, plotly.offline, collections, datetime</td>
 <tr>
 <td> <b>8</b></td>
-<td><a href="https://nbviewer.jupyter.org/https://github.com/AlexeyKlimashov/Yandex_Practicum/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%BE%D0%B1%D1%89%D0%B5%D0%BF%D0%B8%D1%82%D0%B0%20%D0%9C%D0%A1%D0%9A.ipynb"><b>Рынок заведений общественного питания Москвы</b></a></td>
-<td>Исследование проекта для инвесторов по открытию небольшого кафе в Москве. Геовизуализация ресторанов Москвы и Московской области с применением API токена из Яндекс.Геокодер;<a href="https://docviewer.yandex.ru/view/332161343/?
-<td>pandas, numpy, matplotlib, scipy,  </b>API, plotly, geopandas, IFrame, HTML, folium, yaml, bokeh</b></td>
-<tr>
-<td> <b>9</b></td>
 <td><a href="https://nbviewer.jupyter.org/https://github.com/AlexeyKlimashov/Yandex_Practicum/blob/main/%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202.ipynb" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, numpy, matplotlib, scipy, plotly, </b>math</b></td>
